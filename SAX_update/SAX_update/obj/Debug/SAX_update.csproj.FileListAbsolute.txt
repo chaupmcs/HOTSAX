@@ -1,0 +1,54 @@
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+c:\users\chauuser_w10\documents\visual studio 2015\Projects\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+D:\TAI_VE\SAX_31_10\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+D:\TAI_VE\SAX_ver_1.2\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+C:\Users\chauuser_w10\Downloads\SAX__update\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\bin\Debug\SAX_update.exe.config
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\bin\Debug\SAX_update.exe
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\bin\Debug\SAX_update.pdb
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.csprojResolveAssemblyReference.cache
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.form_SAX.resources
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.Properties.Resources.resources
+C:\Users\chauuser_w10\Desktop\NCKH_DM\HOT_SAX\SAX_update\SAX_update\obj\Debug\SAX_update.csproj.GenerateResource.Cache
